@@ -1,4 +1,5 @@
 {
+  "homepage": "gamecock-gameday-guide",
   "name": "gamecock-server",
   "version": "1.0.0",
   "description": "A Node.js Hello World server for CSCE 242.",
