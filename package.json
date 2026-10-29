@@ -18,8 +18,8 @@
   "bugs": {
     "url": "https://github.com/CSE-Barlanti/gamecock-server/issues"
   },
-  "homepage": "https://github.com/CSE-Barlanti/gamecock-server#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.11.4"
   }
 }
